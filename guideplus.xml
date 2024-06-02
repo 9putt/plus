@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="aisplay.ais.co.th" site="tv.trueid.net" site="gigatv.3bb.co.th" site="totiptv.com" site="dtvguide.nbtc.go.th" >
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="aisplay.ais.co.th">
   <channels>
     <channel update="i" site="aisplay.ais.co.th" site_id="5f9e908c12008d9caab3cf3b" xmltv_id="NBT 2 HD">NBT 2 HD</channel>
     <channel update="i" site="aisplay.ais.co.th" site_id="6378ef895b10cf050fd01614" xmltv_id="TPBS">TPBS</channel>
