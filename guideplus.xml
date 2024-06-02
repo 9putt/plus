@@ -1,0 +1,12 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.0.1.1 -- Jan van Straaten" site="aisplay.ais.co.th">
+  <channels>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5f9e908c12008d9caab3cf3b" xmltv_id="NBT 2 HD">NBT 2 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="6378ef895b10cf050fd01614" xmltv_id="TPBS">TPBS</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5efdd162fbb0045345ef2b61" xmltv_id="ALTV4">ALTV4</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="5b335ab3d817de6d62889a6b" xmltv_id="CH5 HD">CH5 HD</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="627a27b26dbfe345cfc8a27f" xmltv_id="T-Sports7">T-Sports7</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="597be02d7ed5a24e46f67254" xmltv_id="Parliament">Parliament</channel>
+    <channel update="i" site="aisplay.ais.co.th" site_id="59671d1cd817de1df19711a6" xmltv_id="TNN24">TNN24</channel>
+  </channels>
+</site>
